@@ -22,16 +22,16 @@
 
 ### 🚀 What I Build
 
-I engineer high-impact, production-ready solutions that combine performance, intelligence, and elegance.
+I design and develop high-impact digital products that combine performance, intelligence, and exceptional engineering quality.
 
 <div align="center">
 
-|                     Focus Area                     |                          Core Technologies                          |
-|----------------------------------------------------|---------------------------------------------------------------------|
-| **High-Performance Backends**                      | Go · Python · NestJS · Java · Clean Architecture · DDD             |
-| **Modern Intelligent Frontends**                   | Next.js 15 · React · TypeScript · Tailwind CSS                      |
-| **AI-Powered Features & Products**                 | LLMs · RAG Systems · Intelligent Agents · Automation               |
-| **Cloud-Native & Distributed Systems**             | Docker · Kubernetes · RabbitMQ · Redis · Event-Driven Architecture |
+| Focus Area                    | Technologies & Approach                                      |
+|-------------------------------|-------------------------------------------------------------|
+| **Scalable Backends**         | Go, Python, NestJS, Java, Clean Architecture, DDD           |
+| **Intelligent Frontends**     | Next.js 15, React, TypeScript, Tailwind CSS                 |
+| **AI Integration**            | LLMs, RAG Systems, Intelligent Agents, Automation           |
+| **Distributed Systems**       | Docker, Kubernetes, RabbitMQ, Redis, Event-Driven Design    |
 
 </div>
 
@@ -58,8 +58,6 @@ Intelligent AI-focused system built with **Python**.
 **simpleWebsite**  
 Modern TypeScript/React frontend showcasing clean, performant UI architecture.  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladPezeshkian/simpleWebsite)
-
-> More high-quality projects coming soon — all built with obsession for scalability and code quality.
 
 ---
 
@@ -100,68 +98,3 @@ Modern TypeScript/React frontend showcasing clean, performant UI architecture.
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20Late%20Nights-000000?style=for-the-badge" alt="Made with love" />
 </div>
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,react,nextjs,nestjs,nodejs,java,c,cpp,tailwind,postgres,mongodb,mysql,sqlserver,redis,docker,kubernetes,git,githubactions,rabbitmq,nginx&perline=14" alt="Tech Stack" />
-</p>
-
----
-
-### 🔥 Featured Projects
-
-**chronos-cli**  
-Production-grade offline Task Scheduler CLI in **Go**. Clean architecture, advanced concurrency, background workers, graceful shutdown.  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladPezeshkian/chronos-cli)
-
-**GrandMasterGuide**  
-Intelligent AI-focused system built with **Python**.  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladPezeshkian/GrandMasterGuide)
-
-**simpleWebsite**  
-Modern TypeScript/React frontend showcasing clean, performant UI architecture.  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladPezeshkian/simpleWebsite)
-
-> More high-quality projects coming soon — all built with obsession for scalability and code quality.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiladPezeshkian&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiladPezeshkian&theme=dracula&hide_border=true" alt="Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladPezeshkian&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
-</div>
-
----
-
-### 📬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-pezeshkian-/)
-[![Quera](https://img.shields.io/badge/Quera-00A3FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://quera.org/profile/milad_pezeshkian)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladPezeshkian)
-
-</div>
-
----
-
-<div align="center">
-  <blockquote>
-    <strong>“Build it right. Ship it fast. Make it disappear.”</strong><br>
-    — Milad Pezeshkian
-  </blockquote>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20Late%20Nights-000000?style=for-the-badge" alt="Made with love" />
-</div>
-```
