@@ -40,7 +40,7 @@ I design and develop high-impact digital products that combine performance, inte
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,react,nextjs,nestjs,nodejs,java,c,cpp,tailwind,postgres,mongodb,mysql,sqlserver,redis,docker,kubernetes,git,githubactions,rabbitmq,nginx&perline=14" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,react,nextjs,nestjs,nodejs,java,c,cpp,tailwind,postgres,mongodb,mysql,redis,docker,kubernetes,github,kafka,rabbitmq,nginx&perline=14" alt="Tech Stack" />
 </p>
 
 ---
