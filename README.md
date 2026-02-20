@@ -1,8 +1,4 @@
-```markdown
-<!-- 
-  Profile README for GitHub
-  Last major update: February 2026
--->
+
 
 <div align="center">
 
@@ -31,7 +27,7 @@ I specialize in:
 - Modern **TypeScript** frontends that feel native  
 - Infrastructure that doesn't break at 3 a.m.
 
-```text
+
 Currently shaping                  | Deeply comfortable with
 ───────────────────────────────────┼──────────────────────────────────────
 AI-native SaaS products            │  Go · Python · TypeScript · Rust
@@ -39,7 +35,6 @@ Scalable internal platforms        │  PostgreSQL · MongoDB · Redis · Kafka
 Developer experience tools         │  Next.js 14+ · React Server Components
 Real-time & event-driven systems   │  NestJS · FastAPI · Fiber · tRPC
 Cloud-native & DevOps              │  Docker · Kubernetes · Terraform · GitHub Actions
-```
 
 ---
 
