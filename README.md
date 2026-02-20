@@ -1,37 +1,44 @@
 ```markdown
+<!-- 
+  Profile README for GitHub
+  Last major update: February 2026
+-->
+
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=38&duration=3200&pause=800&color=00E6FF&center=true&vCenter=true&width=780&lines=Full-Stack+Engineer;Scalable+Backend+Systems;Intelligent+Frontends;AI+%E2%9C%95+Real-World+Products">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=38&duration=3200&pause=800&color=0066FF&center=true&vCenter=true&width=780&lines=Full-Stack+Engineer;Scalable+Backend+Systems;Intelligent+Frontends;AI+%E2%9C%95+Real-World+Products" alt="Typing SVG" />
-  </picture>
+  <img height="200" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4200&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+%26+Systems+Engineering;AI+%E2%9F%B6+Product+Integration;Scalable+Systems+%26+Clean+Code" alt="typing svg" />
 
-  <br><br>
+  <br/><br/>
 
-  <h1>Hi, I'm <strong>Milad Pezeshkian</strong> 👋</h1>
+  <img src="https://img.shields.io/badge/Full%E2%80%90Stack%20Developer-%2302569B?style=for-the-badge&logo=react&logoColor=white&labelColor=101010" alt="Full-Stack" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010" alt="Go" />
 
-  <p><strong>Full-Stack Engineer</strong> passionate about building <strong>scalable backend systems</strong>, <strong>intelligent frontends</strong>, and integrating <strong>AI into production-grade products</strong>.</p>
-
-  <img src="https://img.shields.io/github/followers/MiladPezeshkian?label=Followers&style=social" alt="Followers" />
+  <br/>
 
 </div>
 
----
+<br/>
 
-### 🚀 What I Build
+Hi, I'm **[Your Name / Alias]** — a full-stack engineer who loves building **reliable, performant systems** and thoughtful user experiences.
 
-- High-performance, maintainable backends with clean architecture  
-- Modern, lightning-fast frontends with React/Next.js ecosystem  
-- AI-powered features (RAG, intelligent agents, automation)  
-- Cloud-native, event-driven, and distributed systems that scale  
+I specialize in:
+
+- **Backend** & distributed systems  
+- **API architecture** & performance  
+- **AI product integration** (LLM-powered features, RAG, agents, embeddings)  
+- Modern **TypeScript** frontends that feel native  
+- Infrastructure that doesn't break at 3 a.m.
 
 ```text
-Currently mastering                     Deep expertise in
-────────────────────────────────────────┼────────────────────────────────────
-AI-enhanced SaaS & internal tools       │ Go · Python · TypeScript · Java
-Event-driven & real-time systems        │ Next.js 15 · React · NestJS · tRPC
-Distributed & microservices architecture│ PostgreSQL · MongoDB · MySQL · SQL Server · Redis
-Cloud-native & DevOps excellence        │ Docker · Kubernetes · RabbitMQ · Nginx
+Currently shaping                  | Deeply comfortable with
+───────────────────────────────────┼──────────────────────────────────────
+AI-native SaaS products            │  Go · Python · TypeScript · Rust
+Scalable internal platforms        │  PostgreSQL · MongoDB · Redis · Kafka
+Developer experience tools         │  Next.js 14+ · React Server Components
+Real-time & event-driven systems   │  NestJS · FastAPI · Fiber · tRPC
+Cloud-native & DevOps              │  Docker · Kubernetes · Terraform · GitHub Actions
 ```
 
 ---
