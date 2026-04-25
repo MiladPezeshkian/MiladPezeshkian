@@ -28,7 +28,7 @@ I design and develop high-impact digital products that combine performance, inte
 
 | Focus Area                    | Technologies & Approach                                      |
 |-------------------------------|-------------------------------------------------------------|
-| **Scalable Backends**         | Go, Python, NestJS, Java, Clean Architecture, DDD           |
+| **Scalable Backends**         | Go, Python, NestJS, Java, Clean Architecture, DDD,microservice           |
 | **Intelligent Frontends**     | Next.js 15, React, TypeScript, Tailwind CSS                 |
 | **AI Integration**            | LLMs, RAG Systems, Intelligent Agents, Automation           |
 | **Distributed Systems**       | Docker, Kubernetes, RabbitMQ, Redis, Event-Driven Design    |
