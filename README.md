@@ -10,7 +10,7 @@
   <h1>Hi, I'm <strong>Milad Pezeshkian</strong> 👋</h1>
 
   <p style="font-size: 1.3rem; max-width: 720px; line-height: 1.65; margin: 20px auto;">
-    <strong>Full-Stack Engineer</strong> crafting <strong>scalable backend systems</strong>, 
+    <strong>Full-Stack Software Engineer</strong> crafting <strong>scalable backend systems</strong>, 
     <strong>intelligent frontends</strong>, and seamlessly integrating <strong>AI into production-grade products</strong>.
   </p>
 
