@@ -61,9 +61,7 @@ I design and develop high-impact digital products that combine performance, inte
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiladPezeshkian&theme=dracula&hide_border=true" alt="Streak" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladPezeshkian&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
-</div>
+
 
 ---
 
