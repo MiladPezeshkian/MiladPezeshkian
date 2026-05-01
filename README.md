@@ -14,7 +14,6 @@
     <strong>intelligent frontends</strong>, and seamlessly integrating <strong>AI into production-grade products</strong>.
   </p>
 
-  <img src="https://img.shields.io/github/followers/MiladPezeshkian?label=Followers&style=for-the-badge&color=67E8F9&logo=github&logoColor=black" alt="GitHub Followers" />
 
 </div>
 
