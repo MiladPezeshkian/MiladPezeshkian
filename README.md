@@ -47,17 +47,11 @@ I design and develop high-impact digital products that combine performance, inte
 
 ### 🔥 Featured Projects
 
-**chronos-cli**  
-Production-grade offline Task Scheduler CLI in **Go**. Clean architecture, advanced concurrency, background workers, graceful shutdown.  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladPezeshkian/chronos-cli)
 
 **GrandMasterGuide**  
-Intelligent AI-focused system built with **Python**.  
+ **Python**.  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladPezeshkian/GrandMasterGuide)
 
-**simpleWebsite**  
-Modern TypeScript/React frontend showcasing clean, performant UI architecture.  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladPezeshkian/simpleWebsite)
 
 ---
 
