@@ -86,6 +86,4 @@ I design and develop high-impact digital products that combine performance, inte
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Milad%20Pezeshkian%20<3%20SoftWare%20%engineer20-000000?style=for-the-badge" alt="Made with love" />
-</div>
+
