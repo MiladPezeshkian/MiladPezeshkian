@@ -89,5 +89,5 @@ I design and develop high-impact digital products that combine performance, inte
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20Late%20Nights-000000?style=for-the-badge" alt="Made with love" />
+  <img src="https://img.shields.io/badge/Milad%20Pezeshkian%20<3%20and%20Late%20Nights-000000?style=for-the-badge" alt="Made with love" />
 </div>
