@@ -52,14 +52,6 @@ I design and develop high-impact digital products that combine performance, inte
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladPezeshkian/GrandMasterGuide)
 
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiladPezeshkian&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiladPezeshkian&theme=dracula&hide_border=true" alt="Streak" width="48%" />
-</div>
 
 
 
